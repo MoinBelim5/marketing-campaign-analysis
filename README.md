@@ -15,6 +15,14 @@ The objective is to convert dashboard metrics into **clear, business-driven insi
 
 ---
 
+## 📊 Power BI Dashboard
+![Dashboard](images/dashboard_overview.png)
+
+## 💡 Key Insights
+![Insights](images/insights.png)
+
+---
+
 ##  Key KPIs
 - Return on Investment (ROI)  
 - Conversion Rate  
