@@ -14,12 +14,14 @@ The objective is to convert dashboard metrics into **clear, business-driven insi
 - Deliver executive-ready insights, not just visualizations  
 
 ---
+##  Dashboard Preview
 
-## 📊 Power BI Dashboard
+Here is the main Power BI dashboard showing campaign performance.
+
+--- 
+
+##  Power BI Dashboard
 ![Dashboard](images/dashboard_overview.png)
-
-## 💡 Key Insights
-![Insights](images/insights.png)
 
 ---
 
